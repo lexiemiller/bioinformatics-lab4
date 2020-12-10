@@ -8,7 +8,7 @@
 # *** If you're not sure what this means, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "http://lexiemiller.github.io/bioinformaticslab4"
+url: "https://lexiemiller.github.io/bioinformaticslab4"
 
 # baseurl should be an empty string
 #baseurl: ""
